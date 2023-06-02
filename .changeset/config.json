@@ -2,16 +2,16 @@
   "$schema": "https://unpkg.com/@changesets/config@1.6.2/schema.json",
   "changelog": [
     "@changesets/changelog-github",
-    { "repo": "LekoArts/gatsby-themes" }
+    { "repo": "RRamosc/gatsby-themes" }
   ],
   "commit": false,
   "linked": [
-    ["@lekoarts/gatsby-theme-emilia", "@lekoarts/gatsby-theme-emilia-core"],
-    ["@lekoarts/gatsby-theme-emma", "@lekoarts/gatsby-theme-emma-core"],
-    ["@lekoarts/gatsby-theme-jodie", "@lekoarts/gatsby-theme-jodie-core"],
+    ["@RRamosc/gatsby-theme-emilia", "@RRamosc/gatsby-theme-emilia-core"],
+    ["@RRamosc/gatsby-theme-emma", "@RRamosc/gatsby-theme-emma-core"],
+    ["@RRamosc/gatsby-theme-jodie", "@RRamosc/gatsby-theme-jodie-core"],
     [
-      "@lekoarts/gatsby-theme-minimal-blog",
-      "@lekoarts/gatsby-theme-minimal-blog-core"
+      "@RRamosc/gatsby-theme-minimal-blog",
+      "@RRamosc/gatsby-theme-minimal-blog-core"
     ]
   ],
   "access": "public",
